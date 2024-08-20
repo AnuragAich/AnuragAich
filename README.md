@@ -1,4 +1,4 @@
-![logo](https://github.com/AnuragAich/AnuragAich/blob/main/DevHawk.png)
+![logo](https://github.com/AnuragAich/AnuragAich/blob/main/DEVHAWK%20BANNER.png)
 <h1 align="left">“Namaste🙏🏼.  How are you today?”</h1>
 
 ###
