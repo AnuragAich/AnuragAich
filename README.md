@@ -7,10 +7,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/AnuragAich/AnuragAich/output/snake.svg" alt="Snake animation" />
-
-###
-
 <p align="left">Some of the Projects I have worked on recently :</p>
 
 ###
