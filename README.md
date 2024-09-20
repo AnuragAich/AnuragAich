@@ -3,43 +3,33 @@
 
 ###
 
-<p align="left">My name is Anurag Aich and I'm a DevOps Engineer from West Bengal, India. I am Studying for a Master's at IU International University of Applied Sciences. I am a passionate DevOps engineer dedicated to bridging the gap between development and operations. With a strong foundation in automation, continuous integration, and cloud infrastructure, I thrive on creating scalable, efficient solutions that drive innovation.</p>
+<p align="left">My name is Anurag Aich and I'm a Cloud Engineer from West Bengal, India. I am Studying for a Master's at IU International University of Applied Sciences. I am a passionate DevOps engineer dedicated to bridging the gap between development and operations. With a strong foundation in automation, continuous integration, and cloud infrastructure, I thrive on creating scalable, efficient solutions that drive innovation.</p>
 
 ###
 
-<p align="left">Some of the Projects I have worked on recently :</p>
+<p align="left">Some of the Projects I have worked on recently :<br>The Text-to-Speech (TTS) Converter project.<br>Designed and implemented a scalable and secure web application architecture using AWS services.</p>
+
+###
+
+<p align="left">Knowledge on AWS Tools :</p>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=dynamodb" height="40" alt="amazondynamodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
 </div>
 
 ###
 
-<p align="left">🏢 I’m currently Studying in IU <br><br>🌱 I’m currently working on <br><br>💡 Hashtag that describes me #DevHawk<br><br>💬 Ask me about DevOps Tools and Practices<br><br>📫 You can reach me at anuragaich07@gmail.com<br><br>⚡ Fun fact We guys automate stuff</p>
+<p align="left">Hello World!!</p>
 
 ###
 
