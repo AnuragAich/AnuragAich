@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">My name is Anurag Aich and I'm a Cloud Engineer from West Bengal, India. I am Studying for a Master's at IU International University of Applied Sciences. I am a passionate DevOps engineer dedicated to bridging the gap between development and operations. With a strong foundation in automation, continuous integration, and cloud infrastructure, I thrive on creating scalable, efficient solutions that drive innovation.<br><br>Some of the Projects I have worked on recently :<br>The Text-to-Speech (TTS) Converter project.<br>Designed and implemented a scalable and secure web application architecture using AWS services.<br>Production Level CI/CD Pipelines</p>
+<p align="left">My name is Anurag Aich and I'm a AWS Certified and Devops Engineer from West Bengal, India. I am Studying for a Master's at IU International University of Applied Sciences. I am a passionate DevOps engineer dedicated to bridging the gap between development and operations. With a strong foundation in automation, continuous integration, and cloud infrastructure, I thrive on creating scalable, efficient solutions that drive innovation.<br><br>Some of the Projects I have worked on recently :<br>The Text-to-Speech (TTS) Converter project.<br>Designed and implemented a scalable and secure web application architecture using AWS services.<br>Production Level CI/CD Pipelines</p>
 
 ###
 
